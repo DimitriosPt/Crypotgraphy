@@ -1,0 +1,1 @@
+Hello! This is my test file. Next is a string of numbers: 0123456789. And Characters TOO!?.!@#$%^&*()[]{}\|

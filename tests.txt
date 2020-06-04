@@ -1,0 +1,61 @@
+Testing Rotate Left 
+Testing Hashround: /nInput Values: 
+ Buf[0]: ABCDEFABCDEFABCD 
+ Buf[1]: 1337133713371337 
+ Buf[2]: FA0B7F8CCE099DB1 
+ Buf[3]: FABF02DCDFE91670 
+Output Values: 
+ Buf[0]: C2E23ADC6A346FAB 
+ Buf[1]: EAEADB2A72381404 
+ Buf[2]: B0331184502E63EE 
+ Buf[3]: 47EF63A01DDBF55E 
+Testing Hashround: /nInput Values: 
+ Buf[0]: AB00AB00AB00AB 
+ Buf[1]: CDFFCDFFCDFFCDFF 
+ Buf[2]: 101010101010101 
+ Buf[3]: FFFFFFFFFFFFFFFF 
+Output Values: 
+ Buf[0]: CDA9CDA9CCA9CDA9 
+ Buf[1]: 5A3C503C563C563C 
+ Buf[2]: 3816381634163816 
+ Buf[3]: 1276327613761276 
+Testing Hashround: /nInput Values: 
+ Buf[0]: CE1 
+ Buf[1]: D 
+ Buf[2]: C719 
+ Buf[3]: 813F 
+Output Values: 
+ Buf[0]: 813F0CEE00004859 
+ Buf[1]: B8DD410300005447 
+ Buf[2]: 5447A0010000 
+ Buf[3]: 8116271E07004859 
+Testing Hashround: /nInput Values: 
+ Buf[0]: AA1EE0843687C0 
+ Buf[1]: C07F4D 
+ Buf[2]: B5B960D8B412 
+ Buf[3]: 39FB0629B5FFD 
+Output Values: 
+ Buf[0]: E3F45B775C6D956B 
+ Buf[1]: A24A2D0D75AA12EB 
+ Buf[2]: 486A1B06AFA6724A 
+ Buf[3]: 3B9AAABCC3471800 
+Testing Hashround: /nInput Values: 
+ Buf[0]: 0 
+ Buf[1]: 0 
+ Buf[2]: 0 
+ Buf[3]: 0 
+Output Values: 
+ Buf[0]: 0 
+ Buf[1]: 0 
+ Buf[2]: 0 
+ Buf[3]: 0 
+Testing Hashround: /nInput Values: 
+ Buf[0]: FFFFFFFFFFFFFFFF 
+ Buf[1]: FFFFFFFFFFFFFFFF 
+ Buf[2]: FFFFFFFFFFFFFFFF 
+ Buf[3]: FFFFFFFFFFFFFFFF 
+Output Values: 
+ Buf[0]: FFFFFFFF 
+ Buf[1]: FFFFFDFFFFFFFFFF 
+ Buf[2]: FFFFFFFFFFFFFFFF 
+ Buf[3]: 2000FFFFFFFF 
